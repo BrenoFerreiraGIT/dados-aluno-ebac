@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Brenin
+-Profissão: Anal. de Qualidade :)
+-Cidade: Pouso Alegre
+-O que faz nas horas vaga: Jogo Fortnelson bolado
+-Feedback sobre o curso Qualidade de Software: bão demais
+-Feedback sobre a plataforma de estudo da EBAC: bão demais também
 
 Obrigado!!!
-
-
